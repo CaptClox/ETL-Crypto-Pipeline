@@ -1,4 +1,4 @@
-# ETL Crypto Pipeline 🚀
+# ETL Crypto Pipeline 
 
 Pipeline ETL end-to-end que extrae datos de criptomonedas en tiempo real, los transforma y los visualiza en un dashboard interactivo.
 
